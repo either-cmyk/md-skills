@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "md-skills",
+  "owner": "이더컴퍼니 MD",
+  "description": "이더컴퍼니 MD 업무 자동화 스킬 마켓플레이스",
+  "plugins": [
+    {
+      "name": "md-skills",
+      "source": "./",
+      "description": "MD 업무 자동화 스킬 18종 통합 플러그인"
+    }
+  ]
+}
