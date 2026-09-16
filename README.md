@@ -2,13 +2,15 @@
 
 이더컴퍼니 MD 업무 자동화 스킬 모음 (21종).
 
+> 📍 **위치: `EitherCompany/md-skills` (조직 / Private)**
+>
 > ⚠️ **이 저장소는 반드시 private 이어야 합니다.** 일부 스킬에 빅셀·사방넷 로그인 자격증명이
 > 평문으로 들어 있습니다. 자세한 내용은 아래 [자격증명](#자격증명) 참고.
 
 ## 설치
 
 ```
-/plugin marketplace add <owner>/md-skills
+/plugin marketplace add EitherCompany/md-skills
 /plugin install md-skills@md-skills
 ```
 
